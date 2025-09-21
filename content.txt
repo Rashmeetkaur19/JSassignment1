@@ -1,0 +1,9 @@
+Hi, I am learning programming.  
+I use Node.js to run JavaScript on my computer.  
+The fs module helps me read and write files.  
+With readFile, I can read a file in a simple way.  
+It is non-blocking, so my program does not stop.  
+This makes Node.js fast and useful for many tasks.  
+I am happy to practice and improve my skills.  
+Learning step by step makes coding easy for me.  
+
