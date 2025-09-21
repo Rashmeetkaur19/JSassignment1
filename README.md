@@ -1,1 +1,1 @@
-https://github.com/Rashmeetkaur19/JSassignment1.git
+ https://rashmeetkaur19.github.io/JSassignment1/
